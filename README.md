@@ -13,12 +13,12 @@
 
 
 <div align="center">
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">studying</h3>
 
 <p align="center"> Techs that I've used at least once </p>
   
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-
+<img src="https://img.shields.io/badge/Kotlin-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
 
