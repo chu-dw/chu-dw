@@ -10,16 +10,18 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=chu-dw&border_color=DDA0DD&title_color=000000&ring_color=800080" />
 </a>
 
+<h1> </h1><br/>
 
+<div align="left">
+<h3 align="left">📖 studying</h3>
 
-<div align="center">
-<h3 align="center">studying</h3>
-
-<p align="center"> Techs that I've used at least once </p>
+<p align="left"> Techs that I've used at least once </p>
   
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-A8B9CC?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">
 
 </div>
