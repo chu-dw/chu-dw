@@ -4,10 +4,10 @@
 
 
 <a href="https://github.com/chu-dw/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chu-dw&title_color=100000&border_color=DDA0DD" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chu-dw&title_color=010000&border_color=DDA0DD" />
 </a>
 <a href="https://github.com/chu-dw/convoychat">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=chu-dw&border_color=DDA0DD&title_color=100000&ring_color=800080" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=chu-dw&border_color=DDA0DD&title_color=000000&ring_color=800080" />
 </a>
 
 <h1> </h1><br/>
