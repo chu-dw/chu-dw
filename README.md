@@ -34,7 +34,7 @@
 
 <h2>프로젝트</h2>
 
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PostBoxProject&repo=backend)](https://github.com/PostBoxProject)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=factoryvision&repo=backend)](https://github.com/factoryvision) |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PostBoxProject&repo=postox_Server)](https://github.com/PostBoxProject)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=factoryvision&repo=backend)](https://github.com/factoryvision) |
 |:---:|:---:|
 |||
 
