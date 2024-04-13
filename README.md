@@ -36,7 +36,7 @@
 
 <h2>💻 프로젝트</h2>
 
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=PostBoxProject&repo=Postbox-Server)](https://github.com/PostBoxProject)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=factoryvision&repo=backend)](https://github.com/factoryvision) |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=PostBoxProject&repo=Postbox-Server)](https://github.com/PostBoxProject)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=factoryvision&repo=factoryvision-backend)](https://github.com/factoryvision) |
 |:---:|:---:|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=BlancProject&repo=backend)](https://github.com/BlancProject/backend)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Fish-Dectection&repo=backend-repo)](https://github.com/orgs/Fish-Dectection/repositories)|
 
