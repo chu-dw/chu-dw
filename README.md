@@ -31,7 +31,7 @@
 - **역할**: 전체 개발
 - **담당**: 백엔드 개발 및 인프라 구축, AWS 배포, 간단한 프론트엔드 구현, Redis 세션 관리
 - **Stack**: `TypeScript` `NestJS` `MySQL` `Redis` `Docker` `AWS EC2`
-- 🔗 [PostBoxProject/Postbox-Server](https://github.com/PostBoxProject)
+- 🔗 [PostBoxProject](https://github.com/PostBoxProject)
 
 <br>
 
