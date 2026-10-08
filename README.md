@@ -53,5 +53,5 @@ Spring Boot를 주력으로 API 개발부터 서버 환경 구성과 배포까�
 ## 📫 Contact
 
 [![Tech Blog](https://img.shields.io/badge/Tech_Blog-222222?style=flat-square&logo=tistory&logoColor=white)](https://chu-studyroom.tistory.com/)
-[![Gmail](https://img.shields.io/badge/ehddnjs1747@tukorea.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chudw@gmail.com)
+[![Gmail](https://img.shields.io/badge/chudw@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chudw@gmail.com)
 [![solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=cnzhvkrn)](https://solved.ac/cnzhvkrn)
